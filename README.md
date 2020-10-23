@@ -27,3 +27,5 @@ The operation field denotes the type of memory access:
 # Example Run
 
 ![cachelab pdf](https://user-images.githubusercontent.com/62245004/97057487-ff262d80-1593-11eb-8534-0f5a04efbb1f.png)
+
+# Hit/Miss Behavior of a Cache Memory
