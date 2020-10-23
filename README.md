@@ -24,3 +24,6 @@ The operation field denotes the type of memory access:
  The address field specifies a 32-bit hexadecimal memory address.<br /> <br />
  The size field specifies the number of bytes accessed by the operation.<br /> <br />
  The data field specifies the data bytes stored in the given address.<br /> <br />
+# Example Run
+
+![cachelab pdf](https://user-images.githubusercontent.com/62245004/97057487-ff262d80-1593-11eb-8534-0f5a04efbb1f.png)
